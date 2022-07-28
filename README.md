@@ -26,4 +26,4 @@ The goal is to demonstrate how to perform database CRUD operations.
 - VS Code
 - XAMPP
 
-**Still adding some features to the project!**
+**Cheers!**
