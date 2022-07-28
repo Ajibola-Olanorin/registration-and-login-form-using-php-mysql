@@ -22,7 +22,7 @@ The goal is to demonstrate how to perform database CRUD operations.
 
 > Feel free to connect if you need any assistance on the setup.
 
-## Tool Used
+## Tools Used
 - VS Code
 - XAMPP
 
