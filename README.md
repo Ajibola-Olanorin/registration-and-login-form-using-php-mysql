@@ -1,7 +1,7 @@
 # User Registration-and-Login-Form-using-PHP-MySQL
 
 # Login Form
-## A project developed using just HTML, CSS, PHP & MySQL. 
+## A project developed using HTML, CSS, PHP & MySQL. 
 
 The goal is to demonstrate how to perform database CRUD operations.
 
